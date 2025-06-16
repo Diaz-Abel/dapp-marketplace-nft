@@ -10,7 +10,7 @@ Este mini-proyecto es una aplicación descentralizada (DApp) que permite **lista
 
 Puedes ver y probar el proyecto en vivo aquí:
 
-👉 [Prueba en Vivo - Parcial2](https://parcial2-murex.vercel.app/)
+👉 [Prueba en Vivo - Parcial2](https://dapp-marketplace-nft.vercel.app/)
 
 ## 🔒 Mejoras de Seguridad Implementadas
 
